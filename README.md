@@ -33,8 +33,8 @@ This project analyzes insurance claim data to identify fraud patterns and risk f
 
 ### Executive Summary
 
-![Executive Summary](Images/Executive_Summary.png)
+![Executive Summary](Images/https://1drv.ms/i/c/2193f621448ce8b2/IQDp2s3ShKiIRor7-a175HV-AYX5E7dkYrGB5T-SmMvr-bA?e=De1DXd)
 
 ### Risk Analysis
 
-![Risk Analysis](Images/Risk_Analysis.png)
+![Risk Analysis](Images/https://1drv.ms/i/c/2193f621448ce8b2/IQDOE953tcbRTIRGdUJp5MWVAc-m4OTZ-R0MbfN-m1-WrEI?e=o4uhD0)
